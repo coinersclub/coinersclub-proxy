@@ -16,6 +16,7 @@ This package was inspired by x25's
 [Learn More](https://github.com/cazala/coin-hive-stratum/wiki/Run-with-PM2)
 
 ## Installation
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/coinersclub/coinersclub-proxy)
 
 ```
 npm install -g coin-hive-stratum
